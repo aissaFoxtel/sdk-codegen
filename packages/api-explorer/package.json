@@ -1,6 +1,6 @@
 {
   "name": "@looker/api-explorer",
-  "version": "21.0.7",
+  "version": "21.1.0",
   "description": "Looker API Explorer",
   "main": "lib/esm/index.js",
   "typings": "lib/index.d.ts",
