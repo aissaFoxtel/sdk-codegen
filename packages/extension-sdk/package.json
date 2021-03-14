@@ -1,6 +1,6 @@
 {
-  "name": "@looker/extension-sdk",
-  "version": "21.0.8",
+  "name": "looker-extension-sdk",
+  "version": "21.0.11",
   "description": "Looker Extension SDK",
   "main": "lib/index.js",
   "module": "lib/esm/index.js",
@@ -13,11 +13,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/looker-open-source/sdk-codegen.git",
-    "directory": "packages/sdk-rtl"
-  },
+
   "author": "Looker",
   "license": "MIT",
   "scripts": {
@@ -52,5 +48,7 @@
     "Looker",
     "extension-sdk"
   ],
-  "gitHead": "103df9595fff8218c158e1fdd640e33c60827e6a"
+  "directories": {
+    "lib": "lib"
+  }
 }
