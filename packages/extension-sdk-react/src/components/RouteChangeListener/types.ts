@@ -24,7 +24,7 @@
 
  */
 
-import { ExtensionSDK } from '@looker/extension-sdk'
+import { ExtensionSDK } from 'looker-extension-sdk'
 
 export interface RouteChangeListenerProps {
   onPathnameChange?: (pathname: string) => void
