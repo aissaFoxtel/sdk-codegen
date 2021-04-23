@@ -34,7 +34,7 @@ import {
 } from '@looker/components'
 import { Create } from '@styled-icons/material'
 import { useSelector } from 'react-redux'
-import { getExtensionSDK } from '@looker/extension-sdk'
+import { getExtensionSDK } from 'looker-extension-sdk'
 import { IHackerProps, sheetCell } from '../../../models'
 import { getHackersHeadings } from '../../../data/hack_session/selectors'
 import { PAGE_SIZE } from '../../../constants'

@@ -33,7 +33,7 @@ import {
   ITransport,
   sdkError,
 } from '@looker/sdk-rtl'
-import { ExtensionSDK } from '@looker/extension-sdk'
+import { ExtensionSDK } from 'looker-extension-sdk'
 import { defaultScopes } from '@looker/wholly-sheet'
 
 export class GAuthToken extends AuthToken {

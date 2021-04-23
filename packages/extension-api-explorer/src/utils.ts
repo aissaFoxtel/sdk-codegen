@@ -24,7 +24,7 @@
 
  */
 import { IApixEnvAdaptor } from '@looker/api-explorer/src/utils'
-import { ExtensionSDK } from '@looker/extension-sdk'
+import { ExtensionSDK } from 'looker-extension-sdk'
 
 /**
  * An adaptor class for interacting with browser APIs when running as an extension

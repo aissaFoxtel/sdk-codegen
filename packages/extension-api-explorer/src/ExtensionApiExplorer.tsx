@@ -30,7 +30,7 @@ import { useRouteMatch } from 'react-router-dom'
 import {
   ExtensionContext,
   ExtensionContextData,
-} from '@looker/extension-sdk-react'
+} from 'looker-extension-sdk-react'
 import {
   ApiModel,
   getSpecsFromVersions,
@@ -40,7 +40,7 @@ import {
 } from '@looker/sdk-codegen'
 import { Looker31SDK, Looker40SDK } from '@looker/sdk'
 import ApiExplorer from '@looker/api-explorer/src/ApiExplorer'
-import { getExtensionSDK } from '@looker/extension-sdk'
+import { getExtensionSDK } from 'looker-extension-sdk'
 import { configureStore } from '@looker/api-explorer/src/state'
 import { Provider } from 'react-redux'
 import { ExtensionEnvAdaptor } from './utils'

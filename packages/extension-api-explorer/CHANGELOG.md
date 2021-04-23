@@ -8,8 +8,8 @@
 * The following workspace dependencies were updated
   * dependencies
     * @looker/api-explorer bumped from ^0.9.2 to ^0.9.3
-    * @looker/extension-sdk bumped from ^21.4.1 to ^21.4.2
-    * @looker/extension-sdk-react bumped from ^21.4.1 to ^21.4.2
+    * looker-extension-sdk bumped from ^21.4.1 to ^21.4.2
+    * looker-extension-sdk-react bumped from ^21.4.1 to ^21.4.2
     * @looker/run-it bumped from ^0.9.2 to ^0.9.3
     * @looker/sdk-codegen bumped from ^21.0.12 to ^21.0.13
 
@@ -29,8 +29,8 @@
 * The following workspace dependencies were updated
   * dependencies
     * @looker/api-explorer bumped from ^0.9.1 to ^0.9.2
-    * @looker/extension-sdk bumped from ^21.4.0 to ^21.4.1
-    * @looker/extension-sdk-react bumped from ^21.4.0 to ^21.4.1
+    * looker-extension-sdk bumped from ^21.4.0 to ^21.4.1
+    * looker-extension-sdk-react bumped from ^21.4.0 to ^21.4.1
     * @looker/run-it bumped from ^0.9.1 to ^0.9.2
     * @looker/sdk bumped from ^21.4.0 to ^21.4.1
     * @looker/sdk-codegen bumped from ^21.0.11 to ^21.0.12
@@ -49,8 +49,8 @@
 * The following workspace dependencies were updated
   * dependencies
     * @looker/api-explorer bumped from ^0.9.0 to ^0.9.1
-    * @looker/extension-sdk bumped from ^21.0.10 to ^21.4.0
-    * @looker/extension-sdk-react bumped from ^21.0.10 to ^21.4.0
+    * looker-extension-sdk bumped from ^21.0.10 to ^21.4.0
+    * looker-extension-sdk-react bumped from ^21.0.10 to ^21.4.0
     * @looker/run-it bumped from ^0.9.0 to ^0.9.1
     * @looker/sdk bumped from ^21.0.10 to ^21.4.0
     * @looker/sdk-codegen bumped from ^21.0.10 to ^21.0.11

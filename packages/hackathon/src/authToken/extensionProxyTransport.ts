@@ -42,7 +42,7 @@ import {
   ExtensionSDK,
   FetchCustomParameters,
   FetchProxyDataResponse,
-} from '@looker/extension-sdk'
+} from 'looker-extension-sdk'
 
 export class ExtensionProxyTransport extends BaseTransport {
   constructor(public extensionSDK: ExtensionSDK, options: ITransportSettings) {

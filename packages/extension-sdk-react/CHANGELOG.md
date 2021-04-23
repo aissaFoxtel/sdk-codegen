@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * The following workspace dependencies were updated
   * dependencies
-    * @looker/extension-sdk bumped from ^21.4.1 to ^21.4.2
+    * looker-extension-sdk bumped from ^21.4.1 to ^21.4.2
 
 ### [21.4.1](https://www.github.com/looker-open-source/sdk-codegen/compare/extension-sdk-react-v21.4.0...extension-sdk-react-v21.4.1) (2021-04-15)
 
@@ -21,7 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * The following workspace dependencies were updated
   * dependencies
-    * @looker/extension-sdk bumped from ^21.4.0 to ^21.4.1
+    * looker-extension-sdk bumped from ^21.4.0 to ^21.4.1
     * @looker/sdk bumped from ^21.4.0 to ^21.4.1
     * @looker/sdk-rtl bumped from ^21.0.11 to ^21.0.12
 
@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * The following workspace dependencies were updated
   * dependencies
-    * @looker/extension-sdk bumped from ^21.0.10 to ^21.4.0
+    * looker-extension-sdk bumped from ^21.0.10 to ^21.4.0
     * @looker/sdk bumped from ^21.0.10 to ^21.4.0
     * @looker/sdk-rtl bumped from ^21.0.10 to ^21.0.11
 
